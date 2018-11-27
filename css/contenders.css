@@ -7,11 +7,13 @@ html {
   padding: 80px;
 }
 
+
 body {
   margin: 0;
   padding: 0;
   min-width: 100vw;
   min-height: 100vh;
+  background-image: url ("https://github.com/Mwedd9/creative-computing-04-final-project/blob/master/Images%20/IMG_2670.jpg");
 }
 
 h1{
