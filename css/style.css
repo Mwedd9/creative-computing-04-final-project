@@ -14,10 +14,6 @@ body {
   min-width: 100vw;
   min-height: 100vh;
 }
- .background image{
-  creative-computing-04-final-project/Images%20/IMG_2670.jpg
-
- }
 
 
 h1{
@@ -28,6 +24,13 @@ h1{
   line-height:50px;
 
 
+}
+
+/*#contenders{
+  color:red;
+}*/
+a{
+  color:red;
 }
 
 h2{
@@ -46,6 +49,15 @@ h3{
   width: 50%;
 
 }
+
+#Question-1{
+  height: 50px;
+  width:100px;
+  background-color:#300FFF; 
+  color:white;
+  size:;
+}
+
 
 
 
