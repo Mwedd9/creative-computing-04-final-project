@@ -16,6 +16,13 @@ body {
   background-image: https://github.com/Mwedd9/interactive-interview-final-project/blob/master/Images%20/IMG_2670.jpg
 }
 
+.box1 {
+  color: red;
+  min-width: 100vw;
+  min-height: 40px;
+
+}
+
 h1{
  
   font-family:"Roboto", sans-serif;;
@@ -31,6 +38,9 @@ h1{
 }
 a{
   color:red;
+  font-family:"Roboto", sans-serif;;
+   font-size:20px;
+
 }
 
 h2{
@@ -46,17 +56,51 @@ h3{
   font-size:20px;
   color:#300FFF;
   font-family: 'Roboto Slab', serif;
-   width: 50%;
+  width: 50%;
 
 }
 
-h4{
+img {
+    width: 600PX;
+    height: auto;
+  }
+
+h4 {
  border-left: 90vh; 
 }
 
-.box
+.box1 {
+  height:600px;
+  width:700px;
+  color:#300FFF;
+  background-color: red;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.box2 {
+  height:600px;
+  width:700px;
+  color:#D12D44;
+  background-color: yellow;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.box3 {
+  color:#FFF688;
+  height:600px;
+  width:700px;
+  background-color: blue;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
+  margin-left: 50vh;
+
+
+}
 
 #Question-1{
+  padding: 40px;
   height: 50px;
   width:400px;
   background-color:#300FFF; 
