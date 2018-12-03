@@ -30,12 +30,12 @@ h1{
   font-size:40px;
   line-height:50px;
 
-
 }
 
 #contenders{
   color:red;
 }
+
 a{
   color:red;
   font-family:"Roboto", sans-serif;;
@@ -116,13 +116,18 @@ h4 {
   font-size:20px;
   font-family: 'Roboto Slab', serif;
 
-
-
 }
 
 .image1 {
   background-image: url("https://raw.githubusercontent.com/Mwedd9/interactive-interview-final-project/master/Images%20/IMG_4080%202.jpg");
   margin-left: 100vh;
+
+}
+
+.image3{
+  color:#FFF688;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
 
 }
 
