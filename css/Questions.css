@@ -1,1 +1,152 @@
-Questions.css
+* {
+  box-sizing: border-box;
+}
+
+html {
+  margin: 70px;
+  padding: 80px;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 100vw;
+  min-height: 100vh;
+  background-image: url()
+}
+
+.box1 {
+  color: red;
+  min-width: 100vw;
+  min-height: 40px;
+
+}
+
+h1{
+ 
+  font-family:"Roboto", sans-serif;;
+  color:#D12D44;
+  font-size:40px;
+  line-height:50px;
+
+
+}
+
+#contenders{
+  color:red;
+}
+a{
+  color:red;
+  font-family:"Roboto", sans-serif;;
+   font-size:20px;
+
+}
+
+h2{
+  margin-bottom:90px;
+  font-size:20px;
+  color:#FFF688;
+  font-family:"Roboto", sans-serif;;
+
+}
+
+h3{
+  margin-bottom:70px;
+  font-size:20px;
+  color:#300FFF;
+  font-family: 'Roboto Slab', serif;
+  width: 50%;
+
+}
+
+img {
+    width: 600PX;
+    height: auto;
+  }
+
+h4 {
+ border-left: 90vh; 
+}
+
+.box4 {
+  height:600px;
+  width:700px;
+  color:#FFF688;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.box1 {
+  height:600px;
+  width:700px;
+  color:#300FFF;
+  background-color: red;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
+  margin-right: 50vh;
+}
+
+.box2 {
+  height:600px;
+  width:700px;
+  color:#D12D44;
+  background-color: yellow;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
+   margin-right: 30vh;
+}
+
+.box3 {
+  height:600px;
+  width:700px;
+  color:#FFF688;
+  background-color: blue;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
+  margin-left: 50vh;
+
+
+}
+
+.box4 {
+  height:600px;
+  width:700px;
+  color:#FFF688;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
+
+
+
+}
+
+.image1 {
+  background-image: url("https://raw.githubusercontent.com/Mwedd9/interactive-interview-final-project/master/Images%20/IMG_4080%202.jpg");
+  margin-left: 100vh;
+
+}
+
+#Question-1{
+  padding: 40px;
+  height: 50px;
+  width:400px;
+  background-color:#300FFF; 
+  color:white;
+  size:;
+}
+
+
+/*
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  height: auto;
+  width: auto;
+}*/
+
+.content {
+  height: 100%;
+  width: 100%;
+}
