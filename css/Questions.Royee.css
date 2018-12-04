@@ -80,8 +80,8 @@ h4 {
 .box1 {
   height:600px;
   width:600px;
-  color:yellow;
-  background-color: #D12D44;
+  color:blue;
+  background-color: #FFF688;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
   margin-right: 50vh;
@@ -90,8 +90,8 @@ h4 {
 .box2 {
   height:600px;
   width:700px;
-  color:#D12D44; 
-  background-color: yellow;
+  color:#FFF688; 
+  background-color: #D12D44;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
    margin-right: 30vh;
