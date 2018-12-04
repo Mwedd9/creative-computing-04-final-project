@@ -90,7 +90,7 @@ h4 {
 .box2 {
   height:600px;
   width:700px;
-  color:#D12D44;
+  color:#D12D44; 
   background-color: yellow;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
@@ -117,6 +117,25 @@ h4 {
   font-family: 'Roboto Slab', serif;
 
 }
+.box5 {
+  height:600px;
+  width:700px;
+  color:#FFF688;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
+
+}
+
+.box6 {
+  height:600px;
+  width:700px;
+  color:#FFF688;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
+
+}
+
+
 
 .image1 {
   background-image: url("https://raw.githubusercontent.com/Mwedd9/interactive-interview-final-project/master/Images%20/IMG_4080%202.jpg");
