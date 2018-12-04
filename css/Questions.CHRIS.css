@@ -90,11 +90,11 @@ h4 {
 .box2 {
   height:600px;
   width:700px;
-  color:#FFF688; 
-  background-color: #D12D44;
+  color:yellow; 
+  background-color: #249FFF;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
-   margin-right: 30vh;
+  margin-right: 30vh;
 }
 
 .box3 {

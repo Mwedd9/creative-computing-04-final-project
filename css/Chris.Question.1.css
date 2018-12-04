@@ -80,9 +80,9 @@ h4 {
 .box1 {
   height:600px;
   width:600px;
-  color:yellow;
-  background-color: #D12D44;
-  font-size:20px;
+  color:blue;
+  background-color: ;
+  font-size:40px;
   font-family: 'Roboto Slab', serif;
   margin-right: 50vh;
 }
@@ -90,23 +90,21 @@ h4 {
 .box2 {
   height:600px;
   width:700px;
-  color:#D12D44; 
+  color:#249FFF; 
   background-color: #249FFF;
-  font-size:20px;
+  font-size:40px;
   font-family: 'Roboto Slab', serif;
-   margin-right: 30vh;
+  margin-right: 30vh;
 }
 
 .box3 {
   height:600px;
-  width:700px;
-  color:#FFF688;
-  background-color: blue;
-  font-size:20px;
+  width:600px;
+  color:blue;
+  background-color: ;
+  font-size:40px;
   font-family: 'Roboto Slab', serif;
-  margin-left: 50vh;
-
-
+  margin-right: 50vh;
 }
 
 .box7 {
@@ -114,7 +112,7 @@ h4 {
   width:700px;
   color:#300FFF;
   background-color: #FFF688;
-  font-size:20px;
+  font-size:40px;
   font-family: 'Roboto Slab', serif;
   margin-left: 50vh;
 
@@ -135,18 +133,16 @@ h4 {
   width:700px;
   color:#D12D44;
   background-color: red;
-  font-size:20px;
+  font-size:40px;
   font-family: 'Roboto Slab', serif;
   
 }
-
-
 
 /*.image1 {
   background-image: url("https://raw.githubusercontent.com/Mwedd9/interactive-interview-final-project/master/Images%20/IMG_4080%202.jpg");
   margin-left: 100vh;
 
-}*/
+}
 
 .image3{
   color:#D12D44;
@@ -165,7 +161,7 @@ h4 {
 }
 
 
-/*
+
 .center {
   position: absolute;
   top: 50%;
@@ -173,7 +169,7 @@ h4 {
   transform: translate(-50%,-50%);
   height: auto;
   width: auto;
-}*/
+}
 
 .content {
   height: 100%;
