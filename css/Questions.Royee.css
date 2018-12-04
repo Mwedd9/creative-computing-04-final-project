@@ -30,12 +30,12 @@ h1{
   font-size:40px;
   line-height:50px;
 
-
 }
 
 #contenders{
   color:red;
 }
+
 a{
   color:red;
   font-family:"Roboto", sans-serif;;
@@ -61,10 +61,9 @@ h3{
 }
 
 img {
-    width: 600PX;
+    width: 800PX;
     height: auto;
   }
-
 
 h4 {
  border-left: 90vh; 
@@ -80,9 +79,9 @@ h4 {
 
 .box1 {
   height:600px;
-  width:700px;
-  color:#300FFF;
-  background-color: red;
+  width:600px;
+  color:yellow;
+  background-color: #D12D44;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
   margin-right: 50vh;
@@ -91,7 +90,7 @@ h4 {
 .box2 {
   height:600px;
   width:700px;
-  color:#D12D44;
+  color:#D12D44; 
   background-color: yellow;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
@@ -110,39 +109,51 @@ h4 {
 
 }
 
-.box4 {
+.box7 {
   height:600px;
   width:700px;
-  color:#FFF688;
+  color:#300FFF;
+  background-color: yellow;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
+  margin-left: 50vh;
+
+}
+.box5 {
+  height:600px;
+  width:700px;
+  color:#D12D44;
+  background-color: blue;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
+  
+
+}
+
+.box6 {
+  height:600px;
+  width:700px;
+  color:#D12D44;
+  background-color: red;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
+  
 }
 
 
-.image1 {
-  width: 20px;
-  height: 300px;
-  scale: 100px;
-  padding: 40px;
-}
+
+/*.image1 {
+  background-image: url("https://raw.githubusercontent.com/Mwedd9/interactive-interview-final-project/master/Images%20/IMG_4080%202.jpg");
+  margin-left: 100vh;
+
+}*/
 
 .image3{
-  color:#300FFF;
-  font-size:20px;
-  font-family: 'Roboto Slab', serif;
-}
-
-.image4{
-  color:#FFF688;
-  font-size:20px;
-  font-family: 'Roboto Slab', serif;
-}
-.image5{
   color:#D12D44;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
-}
 
+}
 
 #Question-1{
   padding: 40px;
@@ -154,7 +165,7 @@ h4 {
 }
 
 
-
+/*
 .center {
   position: absolute;
   top: 50%;
@@ -162,7 +173,7 @@ h4 {
   transform: translate(-50%,-50%);
   height: auto;
   width: auto;
-}
+}*/
 
 .content {
   height: 100%;
