@@ -5,6 +5,6 @@
 document.getElementById("contenders").style.color = "red";
 
 function larger(){
-  document.getElementById("Question-1").style.width="600px";
-  document.getElementById("Question-1").style.height="300px";
+  document.getElementById("Box-3").style.width="600px";
+  document.getElementById("Box-3").style.height="300px";
 }

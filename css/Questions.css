@@ -109,20 +109,24 @@ h4 {
 
 }
 
-.box4 {
+.box7 {
   height:600px;
   width:700px;
   color:#FFF688;
+  background-color: blue;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
+  margin-left: 50vh;
 
 }
 .box5 {
   height:600px;
   width:700px;
   color:#FFF688;
+  background-color: blue;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
+  
 
 }
 
@@ -130,14 +134,15 @@ h4 {
   height:600px;
   width:700px;
   color:#FFF688;
+  background-color: blue;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
-
+  
 }
 
 
 
-.image1 {
+/*.image1 {
   background-image: url("https://raw.githubusercontent.com/Mwedd9/interactive-interview-final-project/master/Images%20/IMG_4080%202.jpg");
   margin-left: 100vh;
 
@@ -148,7 +153,7 @@ h4 {
   font-size:20px;
   font-family: 'Roboto Slab', serif;
 
-}
+}*/
 
 #Question-1{
   padding: 40px;
