@@ -65,6 +65,7 @@ img {
     height: auto;
   }
 
+
 h4 {
  border-left: 90vh; 
 }
@@ -119,7 +120,6 @@ h4 {
 
 
 .image1 {
-  background-image: url("https://raw.githubusercontent.com/Mwedd9/interactive-interview-final-project/master/Images%20/IMG_4080%202.jpg");
   width: 20px;
   height: 300px;
   scale: 100px;
@@ -128,6 +128,12 @@ h4 {
 
 
 .image3{
+  color:#300FFF;
+  font-size:20px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.image4{
   color:#FFF688;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
@@ -144,7 +150,7 @@ h4 {
 }
 
 
-/*
+
 .center {
   position: absolute;
   top: 50%;
@@ -152,7 +158,7 @@ h4 {
   transform: translate(-50%,-50%);
   height: auto;
   width: auto;
-}*/
+}
 
 .content {
   height: 100%;
