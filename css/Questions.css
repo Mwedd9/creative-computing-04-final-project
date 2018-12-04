@@ -61,7 +61,7 @@ h3{
 }
 
 img {
-    width: 600PX;
+    width: 800PX;
     height: auto;
   }
 
@@ -79,9 +79,9 @@ h4 {
 
 .box1 {
   height:600px;
-  width:700px;
-  color:#300FFF;
-  background-color: red;
+  width:600px;
+  color:yellow;
+  background-color: #D12D44;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
   margin-right: 50vh;
@@ -112,8 +112,8 @@ h4 {
 .box7 {
   height:600px;
   width:700px;
-  color:#FFF688;
-  background-color: blue;
+  color:#300FFF;
+  background-color: yellow;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
   margin-left: 50vh;
@@ -122,7 +122,7 @@ h4 {
 .box5 {
   height:600px;
   width:700px;
-  color:#FFF688;
+  color:#D12D44;
   background-color: blue;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
@@ -133,8 +133,8 @@ h4 {
 .box6 {
   height:600px;
   width:700px;
-  color:#FFF688;
-  background-color: blue;
+  color:#D12D44;
+  background-color: red;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
   
@@ -146,14 +146,14 @@ h4 {
   background-image: url("https://raw.githubusercontent.com/Mwedd9/interactive-interview-final-project/master/Images%20/IMG_4080%202.jpg");
   margin-left: 100vh;
 
-}
+}*/
 
 .image3{
-  color:#FFF688;
+  color:#D12D44;
   font-size:20px;
   font-family: 'Roboto Slab', serif;
 
-}*/
+}
 
 #Question-1{
   padding: 40px;
